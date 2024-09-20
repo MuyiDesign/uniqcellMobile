@@ -1,0 +1,135 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "40192205",
+      "name": "067_包子",
+      "font_class": "a-067_baozi",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
+      "icon_id": "40192209",
+      "name": "067_菠萝",
+      "font_class": "a-067_boluo",
+      "unicode": "e75c",
+      "unicode_decimal": 59228
+    },
+    {
+      "icon_id": "40192210",
+      "name": "067_大蒜",
+      "font_class": "a-067_dasuan",
+      "unicode": "e75d",
+      "unicode_decimal": 59229
+    },
+    {
+      "icon_id": "40192213",
+      "name": "067_荷包蛋",
+      "font_class": "a-067_hebaodan",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    },
+    {
+      "icon_id": "40192216",
+      "name": "067_饭团",
+      "font_class": "a-067_fantuan",
+      "unicode": "e75f",
+      "unicode_decimal": 59231
+    },
+    {
+      "icon_id": "40192218",
+      "name": "067_胡萝卜",
+      "font_class": "a-067_huluobu",
+      "unicode": "e760",
+      "unicode_decimal": 59232
+    },
+    {
+      "icon_id": "40192220",
+      "name": "067_茄子",
+      "font_class": "a-067_qiezi",
+      "unicode": "e761",
+      "unicode_decimal": 59233
+    },
+    {
+      "icon_id": "40192221",
+      "name": "067_花菜",
+      "font_class": "a-067_huacai",
+      "unicode": "e762",
+      "unicode_decimal": 59234
+    },
+    {
+      "icon_id": "40192223",
+      "name": "067_饺子",
+      "font_class": "a-067_jiaozi",
+      "unicode": "e763",
+      "unicode_decimal": 59235
+    },
+    {
+      "icon_id": "40192226",
+      "name": "067_辣椒",
+      "font_class": "a-067_lajiao",
+      "unicode": "e764",
+      "unicode_decimal": 59236
+    },
+    {
+      "icon_id": "40192229",
+      "name": "067_烤肉",
+      "font_class": "a-067_kaorou",
+      "unicode": "e765",
+      "unicode_decimal": 59237
+    },
+    {
+      "icon_id": "40192235",
+      "name": "067_芒果",
+      "font_class": "a-067_mangguo",
+      "unicode": "e766",
+      "unicode_decimal": 59238
+    },
+    {
+      "icon_id": "40192236",
+      "name": "067_柠檬",
+      "font_class": "a-067_ningmeng",
+      "unicode": "e767",
+      "unicode_decimal": 59239
+    },
+    {
+      "icon_id": "40192238",
+      "name": "067_芦笋",
+      "font_class": "a-067_lusun",
+      "unicode": "e768",
+      "unicode_decimal": 59240
+    },
+    {
+      "icon_id": "40192252",
+      "name": "067_桃子",
+      "font_class": "a-067_taozi",
+      "unicode": "e769",
+      "unicode_decimal": 59241
+    },
+    {
+      "icon_id": "40192260",
+      "name": "067_西红柿",
+      "font_class": "a-067_xihongshi",
+      "unicode": "e76a",
+      "unicode_decimal": 59242
+    },
+    {
+      "icon_id": "40192262",
+      "name": "067_玉米",
+      "font_class": "a-067_yumi",
+      "unicode": "e76b",
+      "unicode_decimal": 59243
+    },
+    {
+      "icon_id": "40192263",
+      "name": "067_竹笋",
+      "font_class": "a-067_zhusun",
+      "unicode": "e76c",
+      "unicode_decimal": 59244
+    }
+  ]
+}
