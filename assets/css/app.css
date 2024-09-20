@@ -216,7 +216,7 @@ header .container nav ul li {
   list-style-type: none;
   padding: 0 3px;
   margin: 0 3px;
-  opacity: 0.2;
+  opacity: 0.3;
   border-radius: 2px;
 }
 
@@ -378,12 +378,21 @@ header .container nav ul li.active a {
   padding-bottom: 30px;
 }
 
-#join .container a {
-  display: block;
-  width: 100%;
-  background-color: #3D719C;
-  color: #fff;
+#join .container {
   text-align: center;
-  line-height: 45px;
-  border-radius: 100px;
+}
+
+#join .container a {
+  text-transform: uppercase;
+  color: #7cf07f;
+  background: none;
+  border: 2px solid;
+  border-bottom-width: 4px;
+  font: inherit;
+  letter-spacing: inherit;
+  margin: 1em;
+  padding: 1em 2em;
+  -webkit-transition: color 1s;
+  transition: color 1s;
+  word-spacing: 2px;
 }
